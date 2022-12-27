@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "id": "1672086046774",
+      "name": "Mehmet",
+      "surname": "Karakaş",
+      "studentNo": "988",
+      "studentClass": "8/A",
+      "schoolName": "Dicle Lisesi"
+    },
+    {
+      "id": "1672086755546",
+      "name": "Ali",
+      "surname": "KAYA",
+      "studentNo": "195",
+      "studentClass": "7/B",
+      "schoolName": "Cumhuriyet Ortaokulu"
+    },
+    {
+      "id": "1672086804785",
+      "name": "Salim ",
+      "surname": "Demir",
+      "studentNo": "652",
+      "studentClass": "7/B",
+      "schoolName": "Atatürk Lisesi"
+    },
+    {
+      "id": "1672086857592",
+      "name": "Ayşe",
+      "surname": "Yılmaz",
+      "studentNo": "256",
+      "studentClass": "5/C",
+      "schoolName": "Cumhuriyet İlköğretim Okulu"
+    }
+  ]
+}
